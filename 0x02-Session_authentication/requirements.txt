@@ -1,0 +1,5 @@
+Flask==1.1.2
+Jinja2==2.11.2
+MarkupSafe>=2.1.1
+requests==2.18.4
+pycodestyle==2.6.0
